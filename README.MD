@@ -29,4 +29,4 @@ Open Your browser put inside browser �http://localhost/srms�
 Login Details for admin :�admin/Test@123
 
 
-For More Details --- https://phpgurukul.com/student-result-management-system/
+#For More Details --- https://phpgurukul.com/student-result-management-system/
